@@ -1,6 +1,13 @@
 # katas-js
 Práctica del Módulo 3 del Bootcamp Keepcoding: IntroJS
 
+# Kata 1. FooBarQuix
+Al ejecutar index.js, el sistema genera la equivalencia del 1 al 200
+
+# Kata 2.
+Al ejecutar index.js, el sistema genera las conversiones registradas en testing.js
+
+# kata 3.
 Al ejecutar index.js, el sistema genera la baraja y una mano por jugador (el número de jugadores se especifica en config.js). Acto seguido evalua cada mano y muestra el ganador (o empate si lo hubiera) y las manos ordenadas según valor.
 
 Testing:
